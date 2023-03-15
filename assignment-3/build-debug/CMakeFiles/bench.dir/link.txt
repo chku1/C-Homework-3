@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/bench.dir/benchmark_example.cpp.o -o bench 

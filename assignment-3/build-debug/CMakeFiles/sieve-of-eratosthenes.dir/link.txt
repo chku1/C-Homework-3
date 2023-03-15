@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/sieve-of-eratosthenes.dir/sieve-of-eratosthenes.cpp.o -o sieve-of-eratosthenes 

@@ -1,0 +1,5 @@
+/home/chku/Desktop/C/assignment-3/build-debug/CMakeFiles/dining-philosophers.dir
+/home/chku/Desktop/C/assignment-3/build-debug/CMakeFiles/sieve-of-eratosthenes.dir
+/home/chku/Desktop/C/assignment-3/build-debug/CMakeFiles/bench.dir
+/home/chku/Desktop/C/assignment-3/build-debug/CMakeFiles/edit_cache.dir
+/home/chku/Desktop/C/assignment-3/build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/dining-philosophers.dir/dining-philosophers.cpp.o -o dining-philosophers 
